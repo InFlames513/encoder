@@ -1,3 +1,10 @@
+## Text Encryptor
+A very simple text encryptor and decryptor algorithm, you can get it ready and use it in your projects.
+
+I wrote 2 different encryption algorithms for those who will examine it for training. <br>
+  You can look at the lock.py file to understand the code and working principle <br>
+  If you are going to use it in a project, I recommend the upgLock.py algorithm, it is much more compact.
+
 ## Metin Şifreleyici
 Çok basit bir metin şifeleyici ve çözücü algoritması, projelerinizde hazır olarak alıp kullanabilirsiniz.
 
